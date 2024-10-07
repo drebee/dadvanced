@@ -1,0 +1,1 @@
+My bot will be a bot called Dadvanced. Dadvanced will make dad jokes when prompted, and sometimes when unprompted too. The ultimate goal of Dadvanced is to make everyone in the server groan, which, in turn, would make me laugh. 
